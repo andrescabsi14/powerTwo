@@ -4,7 +4,21 @@ Application to detect power of two numbers
 
 # Specs
 
-**Node version:** 10
+**Node version:** v10.12.0
+
+# Dev server
+
+**Install dependencies**
+
+```
+npm install
+```
+
+**Run dev server**
+
+```
+npm run dev
+```
 
 # Test
 
@@ -12,12 +26,4 @@ Application to detect power of two numbers
 
 ```
 npm run test
-```
-
-# Dev server
-
-**Run Server**
-
-```
-npm run dev
 ```
